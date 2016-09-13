@@ -1,10 +1,8 @@
 {
   "name": "submit-form-on-enter",
   "version": "1.0.0",
-  "description": "Submits a form when <enter> is pressed in a field in a form with no buttons",
+  "description": "Submits a form when ENTER is pressed in a field in a form with no buttons",
   "main": "submit-form-on-enter-directive.js",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/billrawlinson/submit-form-on-enter.git"
@@ -12,11 +10,9 @@
   "author": "Bill Rawlinson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/billrawlinson/submit-form-on-enter/issues"
+    "url": "https://github.com/billrawlinson/submit-form-on-enter/issues",
   },
   "homepage": "https://github.com/billrawlinson/submit-form-on-enter",
-  "devDependencies": {
-  },
   "jspm": {
     "directories": {},
     "dependencies": {
